@@ -1,6 +1,6 @@
 # SQL Data Cleaning Project – World Layoffs Dataset
 
-## Final Cleaned Dataset
+## Project Preview
 
 ![Final Output](Images/05_Final_Output.png)
 
