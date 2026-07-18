@@ -1,5 +1,9 @@
 # SQL Data Cleaning Project – World Layoffs Dataset
 
+## Final Cleaned Dataset
+
+![Final Output](Images/05_Final_Output.png)
+
 ## Project Overview
 
 This project demonstrates a complete SQL data cleaning workflow using the World Layoffs dataset. The objective was to transform raw, inconsistent data into a clean and reliable dataset that can be used for further analysis and reporting.
